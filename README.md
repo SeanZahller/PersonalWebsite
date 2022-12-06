@@ -3,6 +3,7 @@ HTML/CSS with little JavaScript
 Designed and created by Sean Zahller
 Originally designed for Chrome browser
 Codepen Link: https://codepen.io/sean-zahllercs/pen/OJErLNq
+Domain/Active Link: www.sean-zahllercs.me
 
 To Do:
 *Fix dimensions when window is minimized 
